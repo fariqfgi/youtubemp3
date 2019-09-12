@@ -1,6 +1,8 @@
 # YoutubeMP3
 >Shell script to download youtube video or Playlist and convert to MP3 using youtube-dl
 
+![youtubemp3](https://raw.githubusercontent.com/fariqfgi/youtubemp3/master/youtubemp3.png)
+
 ## Required
 Required youtube-dl and ffmpeg
 ```sh
