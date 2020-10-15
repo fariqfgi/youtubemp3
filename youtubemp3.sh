@@ -18,7 +18,7 @@ cat << "EOF"
    -----Download Youtube Videos and Convert to MP3-----
 
 EOF
-echo ""
+echo "+++++++++++++++++++++++++++++++"
 echo "[+] Options:"
 echo "	1. video convert to mp3"
 echo "	2. playlist convert to mp3"
